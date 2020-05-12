@@ -1,1 +1,1 @@
-# SoftUni-Advanced-JS
+# SoftUni-Advanced-JS from May 2020
